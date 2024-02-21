@@ -1,0 +1,14 @@
+{
+  "project": "Content Factory",
+  "plugins": [
+    {
+      "id": "library",
+      "title": "My Assets",
+      "environments": [ "https://experience.adobe.com/?repoId=author-p96415-e882660.adobeaemcloud.com#/@techaspectamericasbx/assets/browse/content/dam/Franklin" ],
+      "isPalette": true,
+      "paletteRect": "top: auto; bottom: 20px; left: 20px; height: 398px; width: 360px;",
+      "url": "/block-library/library",
+      "includePaths": [ "**.docx**" ]
+    }
+  ]
+}
