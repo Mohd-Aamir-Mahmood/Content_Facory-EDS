@@ -208,3 +208,11 @@ main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
 }
+
+main .yellow{
+  background-color: yellow;
+}
+
+main .text-italic{
+  font-style: italic;
+}
