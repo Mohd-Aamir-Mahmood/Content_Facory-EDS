@@ -6,8 +6,8 @@
       "title": "My Assets",
       "environments": [ "edit" ],
       "isPalette": true,
-      "paletteRect": "top: auto; bottom: 20px; left: 20px; height: 398px; width: 360px;",
-      "url": "https://experience.adobe.com/?repoId=author-p96415-e882660.adobeaemcloud.com#/@techaspectamericasbx/assets/browse/content/dam/Franklin",
+      "paletteRect": "top: 60px; bottom: 20px; left: 20px; height: 650px; width: 360px;",
+      "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html",
       "includePaths": [ "**.docx**" ],
       "passConfig": true
     }
